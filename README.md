@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29139033/README.md)
 # Scoring de Riesgo Crediticio
 
 Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de crédito, a partir del dataset público de UCI Machine Learning Repository (clientes de Taiwán, 2005).
