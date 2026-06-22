@@ -1,4 +1,4 @@
-# Scoring de Riesgo Crediticio — UCI Default of Credit Card Clients
+# 💳 Scoring de Riesgo Crediticio
 
 Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de
 crédito, a partir del dataset público de UCI Machine Learning Repository (clientes de Taiwán, 2005).
